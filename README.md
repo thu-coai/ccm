@@ -44,7 +44,7 @@ You can change the model parameters using:
 	--units xxx 				the hidden units
 	--layers xxx 				the number of RNN layers
 	--batch_size xxx 			batch size to use during training 
-	--per_checkpoint xxx 		steps to save and evaluate the model
+	--per_checkpoint xxx 			steps to save and evaluate the model
 	--train_dir xxx				training directory
 
 ### Evaluation
