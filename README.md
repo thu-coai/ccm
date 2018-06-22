@@ -4,7 +4,7 @@
 
 Commonsense knowledge is vital to many natural language processing tasks. In this [paper](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018_commonsense_ZhouHao_3_TYVQ7Iq.pdf), we present a novel open-domain conversation generation model to demonstrate how large-scale commonsense knowledge can facilitate language understanding and generation. Given a user post, the model retrieves relevant knowledge graphs from a knowledge base and then encodes the graphs with a static graph attention mechanism, which augments the semantic information of the post and thus supports better understanding of the post. Then, during word generation, the model attentively reads the retrieved knowledge graphs and the knowledge triples within each graph to facilitate better generation through a dynamic graph attention mechanism, as shown in Figure 1.
 
-![image][demo]
+![image][https://github.com/tuxchow/ccm/blob/master/image/demo.png]
 
 This project is a tensorflow implement of our work, [CCM](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018_commonsense_ZhouHao_3_TYVQ7Iq.pdf).
 
@@ -49,7 +49,7 @@ You can change the model parameters using:
 
 ### Evaluation
 
-![image][evaluation]
+![image][https://github.com/tuxchow/ccm/blob/master/image/evaluation.png]
 
 ## Acknowlegments
 
