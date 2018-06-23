@@ -51,6 +51,15 @@ You can change the model parameters using:
 
 ![image](https://raw.githubusercontent.com/tuxchow/ccm/master/image/evaluation.png)
 
+## Paper
+
+Hao Zhou, Tom Yang, Minlie Huang, Haizhou Zhao, Jingfang Xu, Xiaoyan Zhu.  
+[Commonsense Knowledge Aware Conversation Generation with Graph Attention.](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018_commonsense_ZhouHao_3_TYVQ7Iq.pdf)  
+IJCAI-ECAI 2018, Stockholm, Sweden.
+
+**Please kindly cite our paper if this paper and the code are helpful.**
+
+
 ## Acknowlegments
 
 Thanks for the kind help of Prof. Minlie Huang and Prof. Xiaoyan Zhu. Thanks for the support of my teammates.
