@@ -12,7 +12,7 @@ This project is a tensorflow implement of our work, [CCM](http://coai.cs.tsinghu
 	
 * Python 2.7
 * Numpy
-* Tensorflow 1.4.0
+* Tensorflow 1.3.0
 
 ## Quick Start
 
