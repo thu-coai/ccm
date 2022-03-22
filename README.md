@@ -20,7 +20,7 @@ This project is a tensorflow implement of our work, [CCM](http://coai.cs.tsinghu
 
 	Commonsense Conversation Dataset contains one-turn post-response pairs with the corresponding commonsense knowledge graphs. Each pair is associated with some knowledge graphs retrieved from ConceptNet. We have applied some filtering rules to retain high-quality and useful knowledge graphs.
 
-	Please [download](http://coai.cs.tsinghua.edu.cn/hml/dataset/#commonsense) the Commonsense Conversation Dataset to data directory.
+	Please [download](https://cloud.tsinghua.edu.cn/f/d367736aaec64d399b1b/?dl=1) the Commonsense Conversation Dataset to data directory.
 
 * Train
 
